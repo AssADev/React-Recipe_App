@@ -13,3 +13,9 @@ Additionally, there is the use of external packages, such as :
 -   [React Icons](https://react-icons.github.io/react-icons/) : Used to have icons
 -   [Styled components](https://styled-components.com/) : Used to style components
 -   [Framer Motion](https://www.framer.com/motion/) : Used for creating transitions
+
+## Visuals of the application
+
+![Recipe App - Home](http://urlr.me/cwpFn)
+![Recipe App - Cuisine](http://urlr.me/5vWGT)
+![Recipe App - Detail](http://urlr.me/ZWDTv)
