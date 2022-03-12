@@ -22,12 +22,12 @@ function Search() {
 
 // Style :
 const FormStyle = styled.form`
+    margin: 0 5rem;
     position: relative;
-    width: 100%;
 
     input {
         border: none;
-        background: linear-gradient(35deg, #494949, #313131);
+        background: linear-gradient(35deg, #494949, #333);
         font-size: 1.5rem;
         color: #fff;
         padding: 1rem 3rem;

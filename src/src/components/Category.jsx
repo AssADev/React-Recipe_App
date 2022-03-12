@@ -41,7 +41,7 @@ const SLink = styled(NavLink)`
     row-gap: 7.5px;
     border-radius: 50%;
     margin-right: 2rem;
-    background: linear-gradient(35deg, #494949, #313131);
+    background: linear-gradient(35deg, #494949, #333);
     width: 6rem;
     height: 6rem;
     cursor: pointer;
