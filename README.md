@@ -18,4 +18,4 @@ Additionally, there is the use of external packages, such as :
 
 ![Recipe App - Home](http://urlr.me/cwpFn)
 ![Recipe App - Cuisine](http://urlr.me/5vWGT)
-![Recipe App - Detail](http://urlr.me/ZWDTv)
+![Recipe App - Detail](http://urlr.me/qKctM)
