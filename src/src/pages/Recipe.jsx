@@ -53,7 +53,7 @@ function Recipe() {
 // Style :
 const DetailWrapper = styled(motion.div)`
     display: flex;
-    margin-top: 10rem;
+    margin-top: 5rem;
     margin-bottom: 5rem;
 
     .active {
