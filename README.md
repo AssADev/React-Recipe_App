@@ -18,5 +18,5 @@ Additionally, there is the use of external packages, such as :
 
 ![Recipe App - Home](http://urlr.me/cwpFn)
 ![Recipe App - Cuisine](http://urlr.me/5vWGT)
-![Recipe App - Search](http://urlr.me/bKpMV)
+![Recipe App - Search](http://urlr.me/9DpS6)
 ![Recipe App - Recipe](http://urlr.me/qKctM)
