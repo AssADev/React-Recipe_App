@@ -8,11 +8,11 @@ It was mostly made with [React](https://reactjs.org/) and the [Spoonacular API](
 
 Additionally, there is the use of external packages, such as :
 
--   [React Router DOM](https://v5.reactrouter.com/) : Used for routes within the app
+-   [React Router DOM](https://v5.reactrouter.com/) : Used for in-app routes
 -   [React Splide](https://splidejs.com/integration/react-splide/) : Used to generate a slider
 -   [React Icons](https://react-icons.github.io/react-icons/) : Used to have icons
 -   [Styled components](https://styled-components.com/) : Used to style components
--   [Framer Motion](https://www.framer.com/motion/) : Used for creating transitions
+-   [Framer Motion](https://www.framer.com/motion/) : Used to create transitions
 
 ## Visuals of the application
 
